@@ -23,7 +23,7 @@ Particle-like structures are not fundamental objects but emergent features corre
 If you use this work, please cite:
 
 Scheduler4861. (2026).  
-Invariant Structure of XOR Causal Dynamics under Finite Propagation.  
+*Invariant Structure of XOR Causal Dynamics under Finite Propagation.*  
 Zenodo. https://doi.org/10.5281/zenodo.19600725
 
 ## License
