@@ -4,7 +4,10 @@ This repository contains a minimal theoretical framework describing particle-lik
 
 ## Paper
 
-- [Particle Structures as Localized Invariants in XOR Causal Dynamics](xor_local_invariants.pdf)
+## Paper
+
+- [Read on GitHub (PDF)](xor_local_invariants.pdf)  
+- [Read on Zenodo (DOI)](https://doi.org/10.5281/zenodo.19600725)
 
 ## Summary
 
@@ -13,6 +16,18 @@ Invariant observables are defined via weight functions satisfying a fixed-point 
 
 Localized invariant modes correspond to persistent particle-like structures.
 
-## Files
+## Key Idea
 
-- xor_local_invariants.pdf : main paper
+Particle-like structures are not fundamental objects but emergent features corresponding to invariant modes of the causal operator.
+
+## Citation
+
+If you use this work, please cite:
+
+Scheduler4861. (2026).  
+Invariant Structure of XOR Causal Dynamics under Finite Propagation.  
+Zenodo. https://doi.org/10.5281/zenodo.19600725
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
