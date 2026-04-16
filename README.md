@@ -4,7 +4,7 @@ This repository contains a minimal theoretical framework describing particle-lik
 
 ## Paper
 
-- Particle Structures as Localized Invariants in XOR Causal Dynamics
+- [Particle Structures as Localized Invariants in XOR Causal Dynamics](xor_local_invariants.pdf)
 
 ## Summary
 
