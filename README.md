@@ -23,6 +23,7 @@ Particle-like structures are not fundamental objects but emergent features corre
 Clone the repository:
 
 git clone https://github.com/Scheduler4861/xor-particles.git
+
 cd xor-particles
 
 Install dependencies:
