@@ -4,8 +4,8 @@ This repository contains a minimal theoretical framework describing particle-lik
 
 ## Paper
 
-- Read on GitHub (PDF)
-- Read on Zenodo (DOI)
+- [Read on GitHub (PDF)](./xor_local_invariants.pdf)
+- [Read on Zenodo (DOI)](https://doi.org/10.5281/zenodo.19600725)
 
 ## Summary
 
